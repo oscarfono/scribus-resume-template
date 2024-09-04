@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Own Templates">
+		<name>resume-template.sla</name>
+		<file>resume-template.sla</file>
+		<tnail>resume-template.tn.png</tnail>
+		<img>resume-template.png</img>
+		<psize>A4, portrait</psize>
+		<color></color>
+		<descr></descr>
+		<usage></usage>
+		<scribus_version>1.6.1</scribus_version>
+		<date>2024-07-25</date>
+		<author>Cooper Oscarfono</author>
+		<email>cooper@oscarfono.com</email>
+	</template>
+</templates>
